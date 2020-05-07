@@ -1,8 +1,8 @@
-#Starter Web-Project
+# Starter Web-Project
 This is GIT Project , Which we are using it as a sample project.
 
-##Introduction
+## Introduction
 A Lot of Lectures are provided
 
-##GIT & GITHub
+## GIT & GITHub
 This is one of the famous training course
